@@ -8,5 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TakushiTokuyama&show_icons=true&theme=radical" />
 </a>
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakushiTokuyama&layout=compact&theme=tokyonight)](https://github.com/TakushiTokuyama/)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakushiTokuyama&layout=compact" />
+</a>
 
